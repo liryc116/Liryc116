@@ -2,7 +2,7 @@ Welcome !
 
 I'm Liryc
 
-I'm 19 and currently a student the EPITA.
+I'm 19 and currently a student at EPITA.
 
 I'm currently learning:
 
