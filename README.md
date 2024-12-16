@@ -2,7 +2,7 @@ Welcome !
 
 I'm Liryc
 
-I'm 19 and currently a student at EPITA.
+I'm currently a student at EPITA.
 
 [Visit my Blog](https://liryc116.github.io/)
 
